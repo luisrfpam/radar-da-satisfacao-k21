@@ -8,7 +8,8 @@ Seu propósito é identificar o quão satisfeitos estão os membros do seu Time 
 Quem deve participar?
 O time TODO. Todo mundo que faz parte do time, sem exceção. Se tiver alguém de férias, aguarde. Fazer com pessoas faltando acarreta um sentimento de falta de pertencimento da tribo (o time 😁).
 
-Nível de Satisfação
+Nível de Satisfação:
+<br>
 1-Muito insatisfeito
 2-Insatisfeito	
 3-Satisfeito	
